@@ -1,0 +1,117 @@
+{
+  "game_id": "e6fa8f0f",
+  "players": [
+    {
+      "player_id": "f0q9YylW0S4it_fKAAAD",
+      "name": "onewing",
+      "is_cpu": false,
+      "hand": [
+        "3\u2665",
+        "3\u2666",
+        "3\u2660",
+        "7\u2665",
+        "7\u2663",
+        "9\u2660",
+        "J\u2663",
+        "Q\u2665",
+        "Q\u2660",
+        "A\u2666",
+        "2\u2666",
+        "2\u2665"
+      ],
+      "role": "President",
+      "finished_position": null,
+      "passed": false
+    },
+    {
+      "player_id": "cpu_0_0d46",
+      "name": "CPU-1",
+      "is_cpu": true,
+      "hand": [
+        "3\u2663",
+        "4\u2666",
+        "4\u2663",
+        "6\u2663",
+        "7\u2666",
+        "9\u2666",
+        "J\u2660",
+        "Q\u2666",
+        "K\u2665",
+        "A\u2663",
+        "A\u2660",
+        "A\u2665",
+        "2\u2660"
+      ],
+      "role": "Vice Asshole",
+      "finished_position": null,
+      "passed": false
+    },
+    {
+      "player_id": "cpu_1_b0f4",
+      "name": "CPU-2",
+      "is_cpu": true,
+      "hand": [
+        "4\u2665",
+        "4\u2660",
+        "5\u2663",
+        "5\u2666",
+        "6\u2660",
+        "6\u2666",
+        "6\u2665",
+        "7\u2660",
+        "8\u2660",
+        "10\u2660",
+        "10\u2666",
+        "J\u2665"
+      ],
+      "role": "Asshole",
+      "finished_position": null,
+      "passed": false
+    },
+    {
+      "player_id": "cpu_2_5d13",
+      "name": "CPU-3",
+      "is_cpu": true,
+      "hand": [
+        "5\u2660",
+        "8\u2666",
+        "8\u2663",
+        "8\u2665",
+        "9\u2663",
+        "9\u2665",
+        "10\u2663",
+        "10\u2665",
+        "J\u2666",
+        "Q\u2663",
+        "K\u2666",
+        "K\u2663",
+        "2\u2663"
+      ],
+      "role": "Vice President",
+      "finished_position": null,
+      "passed": false
+    }
+  ],
+  "player_order": [
+    "f0q9YylW0S4it_fKAAAD",
+    "cpu_0_0d46",
+    "cpu_1_b0f4",
+    "cpu_2_5d13"
+  ],
+  "original_player_order": [
+    "f0q9YylW0S4it_fKAAAD",
+    "cpu_0_0d46",
+    "cpu_1_b0f4",
+    "cpu_2_5d13"
+  ],
+  "current_player_idx": 0,
+  "lead_player_idx": 0,
+  "table_cards": [],
+  "table_meld_type": null,
+  "finished_count": 0,
+  "state": "playing",
+  "round_num": 2,
+  "exchange_state": null,
+  "pending_exchanges": {},
+  "exchanges_complete": false
+}

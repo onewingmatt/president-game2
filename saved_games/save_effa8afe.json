@@ -1,0 +1,26 @@
+{
+  "game_id": "effa8afe",
+  "players": [
+    {
+      "player_id": "0GUEcjRLT88ouSFdAAAF",
+      "name": "onewing",
+      "is_cpu": false,
+      "hand": [],
+      "role": "Citizen",
+      "finished_position": null,
+      "passed": false
+    }
+  ],
+  "player_order": [],
+  "original_player_order": [],
+  "current_player_idx": 0,
+  "lead_player_idx": 0,
+  "table_cards": [],
+  "table_meld_type": null,
+  "finished_count": 0,
+  "state": "waiting",
+  "round_num": 0,
+  "exchange_state": null,
+  "pending_exchanges": {},
+  "exchanges_complete": false
+}
